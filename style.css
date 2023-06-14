@@ -7,11 +7,26 @@ body {
     text-align: center;
     width: 80%;
     margin: 0 auto;
-    border: 1px solid white;
+}
+
+.title-author h1 {
+    padding-top: 30px;
+    margin-bottom: 0;
+    font-size: 44px;
+}
+
+.title-author h5 {
+    margin-top: 2px;
+    padding-bottom: 30px;
 }
 
 .paragraphs {
     text-align: center;
     width: 80%;
     margin: 0 auto;
+}
+
+.paragraphs p {
+    font-size: 18px;
+    letter-spacing: 1px;
 }
