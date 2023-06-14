@@ -1,5 +1,17 @@
 body {
-    background-color: blue;
-    color: white;
-    margin: 50px 50px 50px 50px;
+    background-color: rgb(96, 9, 118);
+    color: rgb(225, 196, 196);
+}
+
+.title-author {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.paragraphs {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
 }
